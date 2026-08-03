@@ -1,10 +1,15 @@
-# Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abenezer Balcha
-### Software Engineering student building full-stack apps and AI-integrated systems
+# Hi, I'm Abenezer Balcha 👋
 
-Fourth-year Software Engineering student at Seneca Polytechnic, with hands-on experience building and shipping full-stack web applications, designing APIs, and working across Agile development cycles. Comfortable with React, Node.js, Python, TypeScript, and SQL. Curious by nature, and genuinely interested in applying AI tools to build smarter, more useful software.
+### Software Engineering student building full-stack, AI, and connected systems
 
-![Location](https://img.shields.io/badge/Toronto,%20ON,%20Canada-000000?style=flat-square&logo=googlemaps&logoColor=white) <br>
-![Email](https://img.shields.io/badge/abenezerbrh%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white) <br>
+I’m a fourth-year Software Engineering student at Seneca Polytechnic with hands-on experience building full-stack applications, REST APIs, dashboards, and AI-powered tools.
+
+I work mainly with **React, Node.js, Python, TypeScript, and SQL**, and I enjoy turning ideas into practical software across web, AI, data, and IoT projects.
+
+Currently learning more about **data analytics, computer networking, and AI automation**.
+
+![Location](https://img.shields.io/badge/Toronto%2C%20Canada-000000?style=flat-square&logo=googlemaps&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-abenezerbrh%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:abenezerbrh@gmail.com)
 ![Learning](https://img.shields.io/badge/Learning-Data%20Analytics%20%7C%20Networking-000000?style=flat-square&logo=googlescholar&logoColor=white)
-![Collaborate](https://img.shields.io/badge/Collaborate-Full--stack%20%7C%20AI%20%7C%20IoT-000000?style=flat-square&logo=github&logoColor=white)
-![Ask me](https://img.shields.io/badge/Ask%20me-Open%20to%20Fall%202026%2FWinter%202027%2FSummer%202027%20co--op-000000?style=flat-square&logo=speakerdeck&logoColor=white)
+![Interests](https://img.shields.io/badge/Interests-Full--Stack%20%7C%20AI%20%7C%20IoT-000000?style=flat-square&logo=github&logoColor=white)
+![Co-op](https://img.shields.io/badge/Open%20to%20Co--op-Fall%202026%20%7C%20Winter%202027%20%7C%20Summer%202027-000000?style=flat-square&logo=handshake&logoColor=white)
