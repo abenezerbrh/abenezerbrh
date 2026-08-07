@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **cloud infrastructure on AWS and GCP**
 
-- 👨‍💻 All of my projects are available at [aben_balcha.me](http://aben_balcha.me)
+- 👨‍💻 All of my projects are available at [aben_balcha.me]([http://aben_balcha.me](https://abenezerbrh.github.io/my-landing-page/))
 
 - 💬 Ask me about **React, Node.js, Flask, embedded C, and FreeRTOS**
 
