@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Abenezer</h1>
+<h1 align="center">Hi 👋, I'm Abenezer</h1>
 <h3 align="center">Software engineering student in Toronto, building full-stack and embedded projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abenezerbrh&label=Profile%20views&color=0e75b6&style=flat" alt="abenezerbrh" /> </p>
@@ -29,4 +29,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenezerbrh&show_icons=true&locale=en&layout=compact" alt="abenezerbrh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abenezerbrh&" alt="abenezerbrh" /></p>
-](http://aben-balcha.me/)
+(http://aben-balcha.me/)
