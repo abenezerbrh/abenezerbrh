@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **Smart Braille Learning and Translation Assistant**
 
-- 🌱 I’m currently learning **cloud fundamentals, backend frameworks**
+- 🌱 I’m currently learning **cloud fundamentals and backend frameworks**
 
-- 🤝 I’m looking for help with **cloud infrastructure (AWS/GCP)**
+- 🤝 I’m looking for help with **cloud infrastructure on AWS and GCP**
 
-- 👨‍💻 All of my projects are available at [aben_balcha.me](aben_balcha.me)
+- 👨‍💻 All of my projects are available at [aben_balcha.me](https://aben_balcha.me)
 
-- 💬 Ask me about **React, Node.js, Flask, embedded C, FreeRTOS**
+- 💬 Ask me about **React, Node.js, Flask, embedded C, and FreeRTOS**
 
-- 📫 How to reach me **abenezerbrh@gmail.com**
+- 📫 How to reach me: [abenezerbrh@gmail.com](mailto:abenezerbrh@gmail.com)
 
-- ⚡ Fun fact **B**
+- ⚡ Fun fact: **I love coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
