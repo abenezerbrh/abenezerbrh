@@ -15,12 +15,12 @@
 
 - 📫 How to reach me **abenezerbrh@gmail.com**
 
-- ⚡ Fun fact **Coffee lover**
+- ⚡ Fun fact **B**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.youtube.com/@abenezerbrh5199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.youtube.com/@abenezerbrh5199" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@abenezerbrh5199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@abenezerbrh5199" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abenezerbalcha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abenezerbalcha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/abenezerbrh5199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abenezerbrh5199" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
